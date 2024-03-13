@@ -1,2 +1,2 @@
-# Intelig-ncia-Artificial
+# Inteligencia-Artificial
 Projetos em python, integrando inteligência artificial
